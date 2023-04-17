@@ -1,0 +1,36 @@
+.about__container {
+
+	padding-top: 20px;
+
+
+}
+
+.about__row {
+	display: flex;
+
+
+}
+
+.about__title {
+	display: flex;
+	justify-content: end;
+	font-size: 37px;
+	font-weight: 800;
+
+
+}
+
+.about__title_green {
+	color: #80DF00;
+}
+
+.about__img {
+	height: 462px;
+
+}
+
+.about__button {
+	padding-right: 200px;
+	padding-top: 51px;
+	height: 100px;
+}
