@@ -1,0 +1,23 @@
+.howwework__body {
+	display: flex;
+	justify-content: space-between;
+
+}
+
+.howwework__title {
+	text-align: center;
+	margin-bottom: 60px;
+}
+
+.howwework__title span {
+	color: #80DF00;
+}
+
+/* MEDIA ---------------------------------------------------------*/
+
+@media(max-width:1200px) {
+	.howwework__body {
+		flex-wrap: wrap-reverse;
+
+	}
+}

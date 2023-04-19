@@ -1,0 +1,21 @@
+.row {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+}
+
+.row__card {}
+
+.row__card img {
+	width: 100%;
+	height: auto;
+}
+
+/* MEDIA ---------------------------------------------------------*/
+
+@media(max-width:1200px) {
+	.row {
+		justify-content: center;
+		margin-bottom: 70px;
+	}
+}

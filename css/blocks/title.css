@@ -1,0 +1,8 @@
+.title {
+	font-weight: 800;
+	font-size: calc(20px + 20 * (100vw / 1950));
+}
+
+.title_green {
+	color: #80DF00;
+}

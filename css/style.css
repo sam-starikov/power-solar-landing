@@ -1,3 +1,24 @@
+/* SETUP */
+
+@import url(/css/blocks/container.css);
+@import url(/css/blocks/wrapper.css);
+
+
+/* BLOCKS */
+
+@import url(/css/blocks/page.css);
+@import url(/css/blocks/header.css);
+@import url(/css/blocks/about.css);
+@import url(/css/blocks/title.css);
+@import url(/css/blocks/button.css);
+@import url(/css/blocks/howwework.css);
+@import url(/css/blocks/column.css);
+@import url(/css/blocks/row.css);
+@import url(/css/blocks/services.css);
+
+
+/* RESET STYLE */
+
 * {
 	padding: 0;
 	margin: 0;
@@ -34,7 +55,7 @@ body {
 	height: 100%;
 	width: 100%;
 	font-size: 100%;
-	line-height: 1.5;
+	line-height: 1.2;
 	font-size: 14px;
 	color: #fff;
 	font-family: Montserrat;

@@ -5,14 +5,13 @@
 .about__row {
 	display: flex;
 	flex-wrap: wrap-reverse;
-
-
 }
 
 .about__title {
 	display: flex;
 	justify-content: end;
 	font-size: 37px;
+	font-weight: 800;
 
 }
 
@@ -51,8 +50,6 @@
 		padding-left: 0;
 	}
 }
-
-
 
 @media (max-width: 435px) {
 	.about__button img {
