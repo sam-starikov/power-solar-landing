@@ -4,9 +4,7 @@
 	width: 100%;
 }
 
-.row__card {}
-
-.row__card img {
+.row__item img {
 	width: 100%;
 	height: auto;
 }

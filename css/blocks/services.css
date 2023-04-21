@@ -1,0 +1,31 @@
+.services {
+	padding-top: 100px;
+}
+
+.services__body {
+	display: flex;
+	justify-content: space-between;
+
+}
+
+.services__title {
+	font-size: calc(20px + 15 * (100vw / 1950));
+	text-align: center;
+	margin-bottom: 33px;
+}
+
+
+
+
+
+/* MEDIA ---------------------------------------------------------*/
+
+@media(max-width:700px) {
+	.services__body {
+		flex-direction: column;
+	}
+
+	.services__body> :not(:last-child) {
+		margin-bottom: 25px;
+	}
+}

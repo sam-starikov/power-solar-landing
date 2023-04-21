@@ -1,0 +1,50 @@
+.service {}
+
+.service__img {
+
+	position: relative;
+
+}
+
+.service__img img {
+	height: auto;
+	width: 100%;
+}
+
+.service__title {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 50%;
+	height: 25%;
+	position: absolute;
+	bottom: 0;
+	right: 15px;
+	border: 1px solid white;
+	border-radius: 30px 0px 30px 30px;
+	font-size: 24px;
+	font-weight: 800;
+}
+
+
+
+
+.service__btn img {}
+
+/* MEDIA ---------------------------------------------------------*/
+
+@media(max-width:1200px) {
+	.service__title h2 {
+		font-size: calc(12px + 10 * (100vw / 1950));
+		font-weight: 600;
+	}
+}
+
+@media(max-width:700px) {
+	.service__btn img {
+		height: auto;
+		width: 50%;
+	}
+
+
+}

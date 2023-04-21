@@ -3,5 +3,6 @@
 	overflow: hidden;
 	display: flex;
 	flex-direction: column;
-	background: url(/img/bg.jpg);
+	background: url(/img/bg.jpg) no-repeat center / cover;
+	;
 }

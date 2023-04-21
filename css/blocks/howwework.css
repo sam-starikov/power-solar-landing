@@ -5,6 +5,8 @@
 }
 
 .howwework__title {
+	font-size: calc(20px + 15 * (100vw / 1950));
+	;
 	text-align: center;
 	margin-bottom: 60px;
 }
