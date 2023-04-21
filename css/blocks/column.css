@@ -18,7 +18,7 @@
 }
 
 .column__item ::before {
-	content: url(/img/location.png);
+	content: url(../../img/location.png);
 	position: absolute;
 	top: 0;
 	left: 0;
