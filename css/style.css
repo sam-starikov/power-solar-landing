@@ -1,21 +1,21 @@
 /* SETUP */
 
-@import url(css/blocks/container.css);
-@import url(css/blocks/wrapper.css);
+@import url("blocks/container.css");
+@import url("blocks/wrapper.css");
 
 
 /* BLOCKS */
 
-@import url(css/blocks/page.css);
-@import url(css/blocks/header.css);
-@import url(css/blocks/about.css);
-@import url(css/blocks/title.css);
-@import url(css/blocks/button.css);
-@import url(css/blocks/howwework.css);
-@import url(css/blocks/column.css);
-@import url(css/blocks/row.css);
-@import url(css/blocks/services.css);
-@import url(css/blocks/service.css);
+@import url("blocks/page.css");
+@import url("blocks/header.css");
+@import url("blocks/about.css");
+@import url("blocks/title.css");
+@import url("blocks/button.css");
+@import url("blocks/howwework.css");
+@import url("blocks/column.css");
+@import url("blocks/row.css");
+@import url("blocks/services.css");
+@import url("blocks/service.css");
 
 
 /* RESET STYLE */
